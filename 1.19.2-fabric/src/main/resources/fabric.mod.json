@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "salmonite",
+  "version": "${version}",
+  "name": "Salmonite",
+  "description": "鲑岩",
+  "authors": [ "3TUSK" ],
+  "contact": {},
+  "license": "CC0-1.0",
+  "entrypoints": {
+    "main": [ "info.tritusk.textbook.salmonite.neoforge.Salmonite" ],
+    "client": [ "info.tritusk.textbook.salmonite.neoforge.SalmoniteClientStuff"]
+  },
+  "depends": {
+    "minecraft": [ "1.19.2" ]
+  }
+}

@@ -1,0 +1,18 @@
+modLoader="javafml"
+loaderVersion="[1,)"
+license="CC0-1.0"
+issueTrackerURL="https://example.invalid/"
+displayTest="IGNORE_ALL_VERSION"
+
+[[mods]]
+modId="salmonite"
+version="${file.jarVersion}"
+displayName="Salmonite"
+description="鲑岩"
+authors="3TUSK"
+credits="I will fill this part later™"
+
+[[dependencies.salmonite]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.19.2]"

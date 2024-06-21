@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "category": "food",
+  "ingredient": {
+    "item": "salmonite:salmonite"
+  },
+  "cookingtime": 100,
+  "result": {
+    "id": "minecraft:cooked_salmon"
+  },
+  "experience": 0.5
+}
